@@ -1,0 +1,15 @@
+@import "./src/globalStyle";
+
+h1 {
+  font-size: 48px;
+  font-weight: 400;
+  border-bottom: 1px solid $fire;
+  color: $black80;
+}
+
+p {
+  line-height: 250%;
+  font-size: 18px;
+  font-weight: 400;
+  color: $black60;
+}
